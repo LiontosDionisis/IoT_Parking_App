@@ -1,0 +1,6 @@
+@IoT_ParkingApp_HostAddress = http://localhost:5165
+
+GET {{IoT_ParkingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

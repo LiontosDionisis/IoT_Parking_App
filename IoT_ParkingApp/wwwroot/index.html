@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IoT Parking Sensor Data</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #333;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Parking Sensor Data</h1>
+    <table id="sensorTable">
+        <thead>
+            <tr>
+                <th>DevEui</th>
+                <th>SensorId</th>
+                <th>Timestamp</th>
+                <th>Occupied</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <script>
+        async function loadData() {
+            const tbody = document.querySelector('#sensorTable tbody');
+            tbody.innerHTML = ''; 
+
+            try {
+                const response = await fetch('http://localhost:5165/api/sensor-data'); 
+                const data = await response.json();
+
+                data.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${item.devEui}</td>
+                        <td>${item.sensorId}</td>
+                        <td>${new Date(item.timestamp).toLocaleString()}</td>
+                        <td>${item.occupied ? 'Yes' : 'No'}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            } catch (err) {
+                console.error(err);
+                tbody.innerHTML = '<tr><td colspan="4">Failed to load data.</td></tr>';
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', loadData); 
+    </script>
+</body>
+</html>
