@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoT_ParkingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3795fad0420d89cc7f4692c56524a8f372fae87e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoT_ParkingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoT_ParkingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

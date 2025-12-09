@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\Iot_ParkingApp\\IoT_ParkingApp.csproj": {}
+    "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\IoT_ParkingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\Iot_ParkingApp\\IoT_ParkingApp.csproj": {
+    "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\IoT_ParkingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\Iot_ParkingApp\\IoT_ParkingApp.csproj",
+        "projectUniqueName": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\IoT_ParkingApp.csproj",
         "projectName": "IoT_ParkingApp",
-        "projectPath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\Iot_ParkingApp\\IoT_ParkingApp.csproj",
+        "projectPath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\IoT_ParkingApp.csproj",
         "packagesPath": "C:\\Users\\Dioni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\Iot_ParkingApp\\obj\\",
+        "outputPath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

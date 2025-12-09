@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wV2s5pYZi6c=",
+  "dgSpecHash": "obr9OG52rwM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\Iot_ParkingApp\\IoT_ParkingApp.csproj",
+  "projectFilePath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\IoT_ParkingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dioni\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dioni\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",

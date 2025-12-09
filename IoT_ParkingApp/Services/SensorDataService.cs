@@ -13,6 +13,13 @@ namespace IoT_ParkingApp.Services
             _sensorDataRepo = sensorDataRepo;
         }
 
+
+        /// <summary>
+        /// Adds a new sensor data entry and returns a readonly DTO
+        /// </summary>
+        /// <param name="sensorData">Sensor data to add</param>
+        /// <returns>A DTO carrying the stored sensor data</returns>
+        /// <exception cref="ArgumentException">Thrown if required fields are missing</exception>
         public async Task<SensorDataReadOnlyDTO> AddSensorDataAsync(SensorData sensorData)
         {
             if (string.IsNullOrWhiteSpace(sensorData.DevEui)) throw new ArgumentException("DevEui is required");
@@ -32,6 +39,10 @@ namespace IoT_ParkingApp.Services
 
         }
 
+        /// <summary>
+        /// Fetches all sensor data from the database
+        /// </summary>
+        /// <returns>A collection of objects each representing a sensor data entry without exposing the rawData</returns>
         public async Task<IEnumerable<SensorDataReadOnlyDTO>> GetAllSensorDataAsync()
         {
             var dataToReturn = await _sensorDataRepo.GetAllDataAsync();

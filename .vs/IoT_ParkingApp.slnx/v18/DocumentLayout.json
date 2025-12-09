@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\repositories\\sensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\repositories\\sensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\services\\sensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\services\\sensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\services\\sensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\services\\sensordataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\model\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\model\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\repositories\\sensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|solutionrelative:iot_parkingapp\\repositories\\sensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7242C0E5-E2BC-6509-7283-F3EFFE40FA9F}|IoT_ParkingApp\\IoT_ParkingApp.csproj|c:\\users\\dioni\\source\\repos\\iot_parkingapp\\iot_parkingapp\\repositories\\isensordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,19 +67,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\.gitignore",
+              "RelativeDocumentMoniker": "IoT_ParkingApp\\.gitignore",
+              "ToolTip": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\.gitignore",
+              "RelativeToolTip": "IoT_ParkingApp\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-09T20:43:00.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\wwwroot\\index.html",
               "RelativeToolTip": "IoT_ParkingApp\\wwwroot\\index.html",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwCsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-09T20:17:55.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SensorData.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Model\\SensorData.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Model\\SensorData.cs",
@@ -83,51 +104,50 @@
               "RelativeToolTip": "IoT_ParkingApp\\Model\\SensorData.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:55:54.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T19:55:54.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SensorDataController.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Controllers\\SensorDataController.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Controllers\\SensorDataController.cs",
               "ToolTip": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Controllers\\SensorDataController.cs",
               "RelativeToolTip": "IoT_ParkingApp\\Controllers\\SensorDataController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T19:16:16.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "SensorDataService.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Services\\SensorDataService.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Services\\SensorDataService.cs",
               "ToolTip": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Services\\SensorDataService.cs",
               "RelativeToolTip": "IoT_ParkingApp\\Services\\SensorDataService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAywBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T19:04:09.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "SensorDataRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Repositories\\SensorDataRepository.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Repositories\\SensorDataRepository.cs",
               "ToolTip": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Repositories\\SensorDataRepository.cs",
               "RelativeToolTip": "IoT_ParkingApp\\Repositories\\SensorDataRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T18:57:45.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Program.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Program.cs",
@@ -135,12 +155,11 @@
               "RelativeToolTip": "IoT_ParkingApp\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:36:30.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T18:36:30.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Data\\AppDbContext.cs",
@@ -153,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IoT_ParkingApp.csproj",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\IoT_ParkingApp.csproj",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\IoT_ParkingApp.csproj",
@@ -161,12 +180,11 @@
               "RelativeToolTip": "IoT_ParkingApp\\IoT_ParkingApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-09T18:42:56.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T18:42:56.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\appsettings.json",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\appsettings.json",
@@ -174,12 +192,11 @@
               "RelativeToolTip": "IoT_ParkingApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-09T18:41:51.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T18:41:51.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ISensorDataRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Repositories\\ISensorDataRepository.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Repositories\\ISensorDataRepository.cs",
@@ -187,12 +204,11 @@
               "RelativeToolTip": "IoT_ParkingApp\\Repositories\\ISensorDataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:55:21.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T18:55:21.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ISensorDataService.cs",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\Services\\ISensorDataService.cs",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\Services\\ISensorDataService.cs",
@@ -200,12 +216,11 @@
               "RelativeToolTip": "IoT_ParkingApp\\Services\\ISensorDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:03:04.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T19:03:04.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Dioni\\source\\repos\\IoT_ParkingApp\\IoT_ParkingApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "IoT_ParkingApp\\appsettings.Development.json",
